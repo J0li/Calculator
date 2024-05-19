@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    background: #f4f4fd;
+}
+
+.Calculator{
+    width: 100%;
+    background: #C8BEB2;
+}
+
+.btn-1{
+    background: #56595E;
+    border: 1px solid #171614;
+}
+
+.btn-clear{
+    background: #F6BD6D;
+}
+
+.display{
+    background: #A5B4A4;
+}
