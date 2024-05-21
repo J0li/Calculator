@@ -4,13 +4,12 @@
 }
 
 .Calculator{
-    width: 100%;
+    width: 98%;
     background: #C8BEB2;
 }
 
-.btn-1{
-    background: #56595E;
-    border: 1px solid #171614;
+.btn-1, .btn-2, .btn-3, .btn-4{
+    border: 1px solid #969696;
 }
 
 .btn-clear{
